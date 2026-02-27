@@ -1,0 +1,7 @@
+{
+  "name": "Full frontend",
+  "description": "A mobile-first personalized learning platform designed for students and institutes, focusing on AI-guided growth and syllabus-aligned paths.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
